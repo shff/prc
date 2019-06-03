@@ -18,7 +18,7 @@ Work in progress
 </head>
 <body>
   <script type="module">
-    import { r, html, render } from "./dist/index2.js";
+    import { r, html, render } from "https://unpkg.com/prc?module";
 
     r.Red = ({ children }) => html`<div class="red">${children}</div>`;
 

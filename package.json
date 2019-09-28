@@ -12,8 +12,8 @@
     "build": "microbundle index.mjs -o dist/index.js -f es,cjs,umd --no-sourcemap --target web"
   },
   "devDependencies": {
-    "htm": "^2.1.1",
+    "htm": "^2.2.1",
     "microbundle": "^0.11.0",
-    "preact": "^10.0.0-beta.0"
+    "preact": "^10.0.0-rc.3"
   }
 }

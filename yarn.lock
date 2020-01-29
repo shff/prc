@@ -1533,10 +1533,10 @@ hsla-regex@^1.0.0:
   resolved "https://registry.yarnpkg.com/hsla-regex/-/hsla-regex-1.0.0.tgz#c1ce7a3168c8c6614033a4b5f7877f3b225f9c38"
   integrity sha1-wc56MWjIxmFAM6S194d/OyJfnDg=
 
-htm@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/htm/-/htm-2.2.1.tgz#02ae7459901b3956aeaf6c7ae627fb6905dc7607"
-  integrity sha512-nPWqBlSbdSHaT2d/cpFRpZLqH5BcdaRcXaicyAtXbkIsIiXLnstPPg0fEX3I8SrlY16FSzb1FLK44uk25xhMvw==
+htm@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/htm/-/htm-3.0.2.tgz#ef1c3ebe312f7699a312e35d728fd8ca36fbfe44"
+  integrity sha512-wcEhXjepeJ4tBG0LLDDxH2DrvA3yBTpiADqiDAscjaNQZrowLCWhf6HcxUfd4LtQ3saWTtnVPEsRQy59cuhWqw==
 
 html-comment-regex@^1.1.0:
   version "1.1.2"

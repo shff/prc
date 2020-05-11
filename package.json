@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "htm": "^3.0.3",
-    "microbundle": "^0.12.0-next.8",
+    "microbundle": "^0.12.0",
     "preact": "^10.4.0"
   }
 }

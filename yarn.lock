@@ -2374,10 +2374,10 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.26, postcss@^7.0.2
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-preact@^10.4.0:
-  version "10.4.0"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.4.0.tgz#90e10264a221690484a56344437a353ffac08600"
-  integrity sha512-34iqY2qPWKAmsi+tNNwYCstta93P+zF1f4DLtsOUPh32uYImNzJY7h7EymCva+6RoJL01v3W3phSRD8jE0sFLg==
+preact@^10.4.4:
+  version "10.4.4"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.4.4.tgz#0bd6d759ec2f8684aaf8c63c7f076191e46528cf"
+  integrity sha512-EaTJrerceyAPatQ+vfnadoopsMBZAOY7ak9ogVdUi5xbpR8SoHgtLryXnW+4mQOwt21icqoVR1brkU2dq7pEBA==
 
 pretty-bytes@^3.0.0:
   version "3.0.1"
